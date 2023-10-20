@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SaiDhiren-Musaloji
 - 👀 I’m interested in Data Science, ML, AI, Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on AI and Web Development
 - 📫 How to reach me msaidhiren@gmail.com & musalojidhiren@gmail.com
 
 <!---
